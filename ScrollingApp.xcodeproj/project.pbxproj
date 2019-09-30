@@ -13,6 +13,8 @@
 		F01DF61A23416F2A002C3CA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F01DF61823416F2A002C3CA2 /* Main.storyboard */; };
 		F01DF61C23416F2B002C3CA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F01DF61B23416F2B002C3CA2 /* Assets.xcassets */; };
 		F01DF61F23416F2B002C3CA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F01DF61D23416F2B002C3CA2 /* LaunchScreen.storyboard */; };
+		F01DF62723416F73002C3CA2 /* autumn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F01DF62623416F73002C3CA2 /* autumn.jpg */; };
+		F01DF62923416FD4002C3CA2 /* ImageScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01DF62823416FD4002C3CA2 /* ImageScrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F01DF61B23416F2B002C3CA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F01DF61E23416F2B002C3CA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F01DF62023416F2B002C3CA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F01DF62623416F73002C3CA2 /* autumn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = autumn.jpg; sourceTree = "<group>"; };
+		F01DF62823416FD4002C3CA2 /* ImageScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				F01DF61223416F2A002C3CA2 /* AppDelegate.swift */,
 				F01DF61423416F2A002C3CA2 /* SceneDelegate.swift */,
 				F01DF61623416F2A002C3CA2 /* ViewController.swift */,
+				F01DF62623416F73002C3CA2 /* autumn.jpg */,
+				F01DF62823416FD4002C3CA2 /* ImageScrollView.swift */,
 				F01DF61823416F2A002C3CA2 /* Main.storyboard */,
 				F01DF61B23416F2B002C3CA2 /* Assets.xcassets */,
 				F01DF61D23416F2B002C3CA2 /* LaunchScreen.storyboard */,
@@ -128,6 +134,7 @@
 				F01DF61F23416F2B002C3CA2 /* LaunchScreen.storyboard in Resources */,
 				F01DF61C23416F2B002C3CA2 /* Assets.xcassets in Resources */,
 				F01DF61A23416F2A002C3CA2 /* Main.storyboard in Resources */,
+				F01DF62723416F73002C3CA2 /* autumn.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F01DF61723416F2A002C3CA2 /* ViewController.swift in Sources */,
+				F01DF62923416FD4002C3CA2 /* ImageScrollView.swift in Sources */,
 				F01DF61323416F2A002C3CA2 /* AppDelegate.swift in Sources */,
 				F01DF61523416F2A002C3CA2 /* SceneDelegate.swift in Sources */,
 			);
